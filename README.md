@@ -2,7 +2,7 @@
 
 This is a simple program used python and vscode to write, and git anad github to share. This program is made to print "Hello World".
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Watch my demo video here](https://youtu.be/1u_3bmXDc74)
 
 # Development Environment
 
@@ -12,7 +12,5 @@ This is a simple program used python and vscode to write, and git anad github to
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
-
-- [Web Site Name](http://url.link.goes.here)
-- [Web Site Name](http://url.link.goes.here)
+- [Simply Python Tutorial](https://www.w3schools.com/python/)
+- [Pushing commits to Github](https://docs.github.com/en/get-started/using-git/pushing-commits-to-a-remote-repository)
